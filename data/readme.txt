@@ -1,0 +1,3 @@
+Following files were generated from search results in http://retractiondatabase.org on July 6, 2020. Searches were based on either subject (mostly) / journal (for nature) / affiliation (for JHU).
+
+Retraction watch shows at most 600 entries. So, if the total number of retractions in a subject was more than 600, I selected retractions from 01/01/YYYY to 12/31/2019, where YYYY was chosen such that the number of retractions just gets below 600.
